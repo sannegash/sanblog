@@ -20,16 +20,16 @@
 
 title: My Digital Home 
 <<<<<<< HEAD
-email: sannegash@proton.me 
+email: sannegash@gmail.com
 =======
-email: sannegash@proton.me
+email: sannegash@gmail.com
 >>>>>>> 04afd431f3b99b3472504b40f20413031d6b0a6e
 description: >- # this means to ignore newlines until "baseurl:"
   A place I store my thoughts and ideas. Also where I try to be original.
 baseurl: "/sanblog" # the subpath of your site, e.g. /blog
-url: "https://sanegash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sannegash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sanegash
-github_username:  sanegash
+github_username:  sannegash
 
 # Build settings
 theme: minima
